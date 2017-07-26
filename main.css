@@ -1,14 +1,24 @@
 .btn-download{
 	margin-top: 6px;
 }
-.section-name{
+.row-border{
 	border: solid 1px #000;
+	box-shadow: 1px 1px 10px #000;
 	border-radius: 5px;
 	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.row-border .lead{
+	margin-bottom: 0px;
+	padding: 10px 0;
+}
+.section-name{
 	background: linear-gradient(141deg, #000 0%, #1fc8db 51%, #2cb5e8 75%);
-	/*box-shadow:*/
 }
 .section-name h3{
 	margin-top: 10px;
 	color: white;
+}
+.section-personal-date{
+	margin-top: 10px;
 }
