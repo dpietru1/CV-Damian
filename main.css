@@ -1,0 +1,14 @@
+.btn-download{
+	margin-top: 6px;
+}
+.section-name{
+	border: solid 1px #000;
+	border-radius: 5px;
+	margin-top: 5px;
+	background: linear-gradient(141deg, #000 0%, #1fc8db 51%, #2cb5e8 75%);
+	/*box-shadow:*/
+}
+.section-name h3{
+	margin-top: 10px;
+	color: white;
+}
