@@ -22,7 +22,7 @@
 	padding: 10px 0;
 }
 .section-name{
-	background: linear-gradient(141deg, #000 0%, #1fc8db 51%, #2cb5e8 75%);
+	background: linear-gradient(141deg, #000 0%, #1fc8db 51%, #105b77 75%);
 }
 .section-name h3{
 	margin-top: 10px;
@@ -53,8 +53,18 @@
 	padding-left: 16px;
 }
 .foot{
-	margin-top: 130px;
+	margin-top: 260px;
 }
 .ontop{
 	margin-top: 20px;
+}
+.section-right{
+	background: linear-gradient(141deg, #37bf2d 0%, #1fc8db 51%, #2cb5e8 75%);
+	}
+
+.work{
+	padding: 10px 0;
+}
+.work2{
+	padding: 5px 0;
 }
