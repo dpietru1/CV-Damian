@@ -4,6 +4,9 @@
 .myfont1{
 	font-size: 14px;
 }
+.myfont2{
+	font-size: 11px;
+}
 .btn-download{
 	margin-top: 6px;
 }
@@ -43,11 +46,11 @@
 	background-color: #8ecbdc;
 }
 .space{
-  padding: 0 0 18px 0;
+  padding: 0 0 15px 0;
 }
 #image{
 	height: 260px;
-	padding-left: 7px;
+	padding-left: 16px;
 }
 .foot{
 	margin-top: 130px;
