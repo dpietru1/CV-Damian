@@ -22,3 +22,17 @@
 .section-personal-date{
 	margin-top: 10px;
 }
+.interests{
+	text-align: center;
+}
+.job{
+	color: white;
+}
+
+.border-right{
+	border-right: 1px;
+}
+.left-container{
+	border-right: 5px;
+	background-color: #8ecbdc;
+}
