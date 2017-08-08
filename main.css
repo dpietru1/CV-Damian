@@ -1,11 +1,12 @@
 .myfont{
-	font-size: 16px;
+	font-size: 22px;
 }
 .myfont1{
-	font-size: 14px;
+	font-size: 20px;
 }
 .myfont2{
-	font-size: 13px;
+	font-size: 20px;
+	text-align: center;
 }
 .btn-download{
 	margin-top: 6px;
@@ -22,7 +23,7 @@
 	padding: 10px 0;
 }
 .section-name{
-	background: linear-gradient(141deg, #000 0%, #1fc8db 51%, #105b77 75%);
+	background: linear-gradient(141deg, #2f462d 0%, #435658 51%, #213a44 75%);
 }
 .section-name h3{
 	margin-top: 10px;
@@ -59,9 +60,12 @@
 	margin-top: 20px;
 }
 .section-right{
-	background: linear-gradient(141deg, #37bf2d 0%, #1fc8db 51%, #2cb5e8 75%);
+	background: linear-gradient(141deg, #2f462d 0%, #435658 51%, #213a44 75%);
 	}
 
 .work2{
 	padding: 5px 0;
+}
+.lead{
+	color: white;
 }
