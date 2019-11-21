@@ -23,7 +23,7 @@
 	padding: 10px 0;
 }
 .section-name{
-	background: linear-gradient(141deg, #2f462d 0%, #435658 51%, #213a44 75%);
+	background-color: black
 }
 .section-name h3{
 	margin-top: 10px;
@@ -44,14 +44,11 @@
 }
 .left-container{
 	border-right: 5px;
-	background-color: #8ecbdc;
+	background-color: #b8c1c3;
+	height: 990px;
 }
 .space{
   padding: 0 0 15px 0;
-}
-#image{
-	padding-left: 35px;
-	height: 260px;
 }
 .foot{
 	margin-top: 10px;
@@ -60,12 +57,9 @@
 	margin-top: 20px;
 }
 .section-right{
-	background: linear-gradient(141deg, #2f462d 0%, #435658 51%, #213a44 75%);
+	background-color: black;
 	}
 
-.work2{
-	padding: 5px 0;
-}
 .lead{
 	color: white;
 }
