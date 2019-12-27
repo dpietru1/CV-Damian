@@ -1,5 +1,5 @@
 .myfont{
-	font-size: 22px;
+	font-size: 20px;
 }
 .myfont1{
 	font-size: 18px;
@@ -45,7 +45,7 @@
 .left-container{
 	border-right: 5px;
 	background-color: #b8c1c3;
-	height: 1200px;
+	height: 1050px;
 }
 .space{
   padding: 0 0 15px 0;
