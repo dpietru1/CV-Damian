@@ -2,10 +2,10 @@
 	font-size: 22px;
 }
 .myfont1{
-	font-size: 20px;
+	font-size: 18px;
 }
 .myfont2{
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 }
 .btn-download{
@@ -45,7 +45,7 @@
 .left-container{
 	border-right: 5px;
 	background-color: #b8c1c3;
-	height: 1300px;
+	height: 1200px;
 }
 .space{
   padding: 0 0 15px 0;
